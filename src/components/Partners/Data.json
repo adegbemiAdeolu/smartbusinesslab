@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/images/adeolu.jpg",
+        "name": "Adeolu Adegbemi",
+        "title": "Fullstack Developer/CEO",
+        "description": "Has 5 years experience as a fullstack developer working on turnkey projects and applications."
+    },
+
+    {
+        "image": "/images/emma.jpg",
+        "name": "Emmanuel Alabi",
+        "title": "Project Coordinator",
+        "description": "Has 6 years experience working with multinational companies in several capacities as a Senior Developer."
+    },
+
+    {
+        "image": "/images/edward.jpeg",
+        "name": "Edward Aja",
+        "title": "Technical Coordinator",
+        "description": "Has 5 years experience as a fullstack developer working on turnkey projects and applications."
+    }
+]
